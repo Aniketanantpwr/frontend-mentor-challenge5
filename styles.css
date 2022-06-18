@@ -1,7 +1,6 @@
-/* body{
-    width: 1440px;
-    align-items: center;
-} */
+body{
+    margin:0px
+}
 
 .container{
     display:flex;
